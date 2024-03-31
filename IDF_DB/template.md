@@ -6,6 +6,7 @@ Author: KirraTN
 ## Description
 
 After extensive Google dorking and scanning, we discovered an IDF website that could be vulnerable. Assist the resistance in gaining access to the admin account.
+VIVA PALESTINA!
 
 Hint 1:
 intersting the IDF use mongodb.
@@ -29,7 +30,7 @@ sources are private
 
 ## Solver
 Writeup about your challenge
-- [solver.py](./solver.py)
+- IDF_DB_solution
 
 ## Flag
 Securinets{IDF_IS_TH3_BIGG3ST_LI3}
